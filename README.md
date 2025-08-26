@@ -3,6 +3,8 @@
 
 Applied ML to repurpose FDA-approved drugs for HIV treatment, enabling scalable local production in Africa.
 
+Link to presentation at IBM's Cascon X Evoke 2021 Conference: https://www.youtube.com/watch?v=Tb_laDsw29A
+
 ---
 
 ## Repository Structure  
