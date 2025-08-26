@@ -72,11 +72,4 @@ Diba Dindoust — Stanford University student focusing on ML applications in hea
 
 ## Acknowledgments
 
-This project was part of the IBM Cascon × Evoke conference (2021), and guided by IBM collaborators and mentors specializing in computational health.
-
----
-
-*Why this format works:*
-- Clear structure with separate sections for challenge, method, and results.
-- Action-oriented content highlights your ML approach and health impact.
-- Scalable and transparent—easy for others to run and extend.
+This project was presented at the IBM Cascon × Evoke conference (2021).
